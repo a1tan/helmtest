@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  actions-runner:
+  - apiVersion: v2
+    created: "2021-05-25T16:57:29.7358698+03:00"
+    description: Install GitHub Action self-hosted runners into a Kubernetes cluster.
+    digest: df57a5e4caabcd72818cb7ad3d7b9f346d2f288564e50043a3223c239d361df5
+    name: actions-runner
+    urls:
+    - https://github.com/a1tan/helmtest/packages/actions-runner-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-05-25T16:57:29.7314448+03:00"
